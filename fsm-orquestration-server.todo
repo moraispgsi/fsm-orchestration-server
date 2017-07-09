@@ -1,0 +1,10 @@
+ ☐ add fsm-engine-restful server
+ ☐ remove fsm-engine-restful server
+ ☐ add action-dispatcher
+ ☐ remove action-dispatcher (check if it is currently being used)
+ ☐ Logins (using Passport.js possibly)
+ ☐ add a database
+ ☐ provide oauth2
+ ☐ Request access token to action dispatcher
+ ☐ Request access token to engine server 
+ ☐ provide a way to get a token from one of the server from request (using oauth2)
